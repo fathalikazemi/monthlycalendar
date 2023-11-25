@@ -49,3 +49,30 @@ header {
     color: rgb(93, 132, 160);
     font-size: 12px;
 }
+
+/* width and height */
+#calendar {
+    width: 100%;
+}
+
+#calendar ul li {
+    display: block;
+    width: 14.28571%;
+}
+
+.container {
+    height: 100%;
+}
+
+.weekday-title {
+    height: 40px;
+}
+
+.day {
+    height: 180px;
+}
+
+date {
+    width: 50px;
+    height: 50px;
+}
