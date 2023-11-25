@@ -97,3 +97,18 @@ header {
 .event {
     clear: both;
 }
+
+/* border */
+.container {
+    box-sizing: border-box;
+    border: 1px solid rgb(102, 103, 105);
+    border-radius: 4px;
+}
+
+.date {
+    border-radius: 50px;
+}
+
+.event {
+    border: 1px solid rgb(163, 155, 155);
+}
