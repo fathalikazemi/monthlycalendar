@@ -151,3 +151,8 @@ header {
     margin: 0 auto;
     padding: 3px;
 }
+
+/* psudoclasses */
+.day  .container:hover{
+    background-color: rgb(172, 170, 170);
+}
