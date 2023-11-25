@@ -132,3 +132,22 @@ header {
     width: 90%;
     margin: 0 auto;
 }
+
+/* Paddings and margins */
+#calendar ul {
+    padding-bottom: 5px;
+}
+
+.container {
+    margin: 2px;
+}
+
+.date {
+    padding: 5px;
+    margin: 5px;
+}
+
+.event {
+    margin: 0 auto;
+    padding: 3px;
+}
