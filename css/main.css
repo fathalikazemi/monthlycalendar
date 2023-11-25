@@ -9,3 +9,43 @@ body {
     color: rgb(31, 29, 29);
     background-color: rgb(210, 212, 228);   
 }
+
+header {
+    font-size: 40px;
+}
+
+.weekday-title {
+    color: white;
+    text-transform: uppercase;
+}
+
+.weekday-title .container {
+    background-color: rgb(34, 36, 36);
+}
+
+.day  .container{
+    background-color: lightgray;
+}
+
+.other-month  .container{
+    background-color: rgb(169, 168, 179);
+}
+
+.date {
+    background-color: rgb(43, 43, 46);
+    color: white;
+    font-size: 25px;
+}
+
+.event {
+    font-size: 14px;
+}
+
+.event-decribtion {
+    color: rgb(107, 105, 105);
+}
+
+.event-time {
+    color: rgb(93, 132, 160);
+    font-size: 12px;
+}
