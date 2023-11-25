@@ -112,3 +112,23 @@ header {
 .event {
     border: 1px solid rgb(163, 155, 155);
 }
+
+/* centering content */
+
+.weekday-title {
+    text-align: center;
+}
+
+.weekday-title .container {
+    line-height: 40px;
+}
+
+.date {
+    text-align: center;
+    line-height: 50px;
+}
+
+.event {
+    width: 90%;
+    margin: 0 auto;
+}
